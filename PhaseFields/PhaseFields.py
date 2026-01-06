@@ -1,3 +1,5 @@
+
+import matplotlib.pyplot as plt
 from manimlib import *
 from numpy import sin, cos, tan, log
 
